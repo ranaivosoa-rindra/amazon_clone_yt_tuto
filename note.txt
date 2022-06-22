@@ -1,0 +1,5 @@
+Shared preferances: we store token in our app memory
+
+Provider: we store our user data
+
+With the use of provider: we can use the user data everywhere in the app instead of manually passing everywhere through the constructor our user data.
